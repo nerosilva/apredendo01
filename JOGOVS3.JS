@@ -15,7 +15,7 @@ function jogar(escolhajogador){
         
            }else
            {
-           console.log("O computador escolheu "+ escolhacomputador+ ", nos ganhamos ganhou");
+           console.log("O computador escolheu "+ escolhacomputador+ ", nos ganhamos e voce ganhou");
         }
 
 } 
